@@ -58,6 +58,13 @@
     font-size: 23px;
   }
 
+  li:hover {
+    color: lightpink;
+    font-weight: 900;
+    list-style-type: none;
+    text-shadow: 2px 2px lightpink;
+  }
+
   .about-me {
     margin-bottom: 5px;
     padding: 25px;
